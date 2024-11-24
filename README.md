@@ -63,9 +63,6 @@ This approach helps demystify what may seem unquantifiable, especially when deal
 Imagine looking at the night sky, attempting to count each visible star. The task feels impossible.  
 However, with **data visualization**, after prior data processing, you could create a detailed map of the sky, categorizing stars by brightness, distance, temperature, constellation, chemical composition, etc.  
 This map would even allow zooming into specific sections of the sky for more detail, transforming chaos into actionable insights.
-<p align="center" width="100%">
-    <img width="80%" src="https://github.com/user-attachments/assets/a67924c7-651a-4e22-843d-bd76f914fcd3">
-</p>
 
 ### 0.2 A gold mine
 Well-used data is a treasure for smart decisions :  
@@ -76,21 +73,24 @@ In big companies, there is a dedicated data hub that synthesizes and analyzes co
 For Qubic, data serves a strategic purpose:
 - **For investors and the community**: it enables in-depth analysis, offering greater transparency and insights.
 - **For marketing teams**: it helps evaluate what works (or doesn’t) and refine strategies to maximize effectiveness.
+<p align="center" width="100%">
+    <img width="80%" src="https://github.com/user-attachments/assets/9354a27b-8d79-4f7e-873b-238b2ec838ac">
+</p>
 
 ## 1. Project Overview
 ### 1.1 Objective
-The primary goal of **QDashboard** is to provide the community and stakeholders with clear, intuitive visualizations of key data, improving decision-making for both investors and marketing teams while promoting transparency.
+The primary goal of **QDashboard** is to provide the community and stakeholders with clear, intuitive visualizations of key data, improving decision-making for **investors** and **marketing teams** while promoting **transparency**.
 
 ### 1.2 Usage
 To use the Kibana dashboards effectively:
 1. **Timeframe**: The displayed data adapts to the selected timeframe. Filters can also apply specific time restrictions on visualizations.  
-    <img width="262" alt="image" src="https://github.com/user-attachments/assets/1d048499-6c98-4441-b3e0-18d475561413">
+    <img width="262" alt="image" src="https://github.com/user-attachments/assets/afe7f0ec-664b-49ee-a9af-f64d2a1bd28a">
 
 2. **Filters**: Filters directly affect charts, allowing users to dive deeper into analyses. Filters are temporary and apply only to individual sessions.   
-    <img width="700" alt="image" src="https://github.com/user-attachments/assets/0e87c887-834d-49fe-87bf-0760dd298ac7">
+    <img width="700" alt="image" src="https://github.com/user-attachments/assets/420499ba-10f5-4bca-b0a7-90eeb9f62da0">
 
 3. **Interaction**: Users can interact with charts by clicking items to apply global filters, which can be removed from the top left.  
-    <img width="173" alt="image" src="https://github.com/user-attachments/assets/e4836c84-325e-448b-b4af-63ce49797e2f">  
+    <img width="173" alt="image" src="https://github.com/user-attachments/assets/71532d03-d5c5-4435-be25-496eae521642">  
 
 ### 1.3 Durability
 QDashboard is designed for autonomy and resilience, ensuring longevity.  
@@ -101,7 +101,7 @@ Databases have different scalability profiles:
 - NoSQL databases (e.g., **Elasticsearch**) allow for **vertical scaling**, increasing server capacity with minimal effort and expense.
 
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/user-attachments/assets/bfbe85ea-bbe0-48b0-9d7a-8b670cfb5215">
+    <img width="33%" src="https://github.com/user-attachments/assets/6334519b-5835-40e5-8998-8b90f3306a38">
 </p>
 
 ### 1.4 Current progress
@@ -116,7 +116,7 @@ DevOps                     █████████████░░░░�
 - **DevOps**: Currently running on a single node, the solution needs high-availability clustering for robustness and better uptime.
 
 ### 1.5 Dashboards
-<img width="969" alt="image" src="https://github.com/user-attachments/assets/1605ea08-26df-44c0-8461-d6c975745fe1">
+<img width="969" alt="image" src="https://github.com/user-attachments/assets/d1ca7221-3e23-4232-8ffc-0407f1208c5e">
 
 #### 1.5.1 [QUBIC] Documentation
 > This dashboard serves as a user guide for anyone accessing QDashboard, ensuring that users can fully understand and utilize its features.  
@@ -193,7 +193,7 @@ Data pipelines have been developed to run at specified frequencies. Whether in s
 You can then use Kibana dashboards, which will pull data from the Elasticsearch databases.  
 The pipelines are designed to be autonomous over time. This ensures the project lasts long, requires minimal maintenance.
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/user-attachments/assets/a82fd0b3-71ef-4adc-b957-51fdb8a52b74">
+    <img width="1482" alt="image" src="https://github.com/user-attachments/assets/08c36ce3-2da7-4acc-bb7c-5519f7bb87f9">
 </p>
 
 ### 3.2 Data structured : How and Why ?
@@ -394,10 +394,6 @@ It may happen that a data source stops providing data, or that we encounter sudd
 (19/11/2024):  
 Used storage space     █░░░░░░░░░░░░░░░░░░░░░░░░   ~ 6 %
 ```
-<p align="left" width="100%">
-    <img width="20%" alt="image" src="https://github.com/user-attachments/assets/bd960c86-4d75-4b83-8cd9-48cbf84471d4">
-</p>
-
 
 ## 5. Future improvements
 ### 5.1 [DATA] Add new data sources :
@@ -415,12 +411,8 @@ Secure the connection by switching from HTTP to HTTPS.
 
 #### 5.3.2 Export <iframe> dashboard
 - insert the `<iframe>` tag into the Qubic website's HTML code.
-<p align="left" width="100%">
-    <img width="230" alt="image" src="https://github.com/user-attachments/assets/b7000c9d-29d6-492b-bad5-7faeeabdc195" style="display: block; margin: 0 auto;">
-</p>
-<p align="left" width="100%">
-    <img width="230" alt="image" src="https://github.com/user-attachments/assets/84c19fb2-9025-46d7-aa8a-12fe8041ce6b">
-</p>
+<img width="230" align="top" alt="image" src="https://github.com/user-attachments/assets/3edd5136-12c3-4e82-b09f-5d693664511a">
+<img width="230" alt="image" src="https://github.com/user-attachments/assets/da5ecd21-b35b-4724-810a-1ffd3cca82c2">
 
 ### 5.3.3: High Availability Elasticsearch Cluster
 #### Why a cluster ?  
