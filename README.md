@@ -384,7 +384,7 @@ It may happen that a data source stops providing data, or that we encounter sudd
 
 |            OS            |     CPU     |     RAM      |      Memory      |   Data transfer   |   Snapshot   |
 |--------------------------|-------------|--------------|------------------|-------------------|--------------|
-|   Ubuntu 20.04 (64 Bit)  |   4 vCPU    |   6 GO RAM   |  **400 GB SSD**  |   32 TB Traffic   |   Available  |
+|   Ubuntu 20.04 (64 Bit)  |   6 vCPU    |   16 GO RAM   |  **400 GB SSD**  |   32 TB Traffic   |   Available  |
 
 > [!NOTE]
 > When the limit is nearing or latency is observed, the higher plan will be applied without any maintenance.
