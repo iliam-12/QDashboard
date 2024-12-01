@@ -49,7 +49,7 @@
 #### 8. Conclusion
 
 ----
-# [QDashboard](https://qdashboard.org:5601/s/qubic--public-/app/dashboards#/list?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:'2024-04-01T00:00:00.000Z',to:now)))
+# [QDashboard](http://qdashboard.org:5601/s/qubic--public-/app/dashboards#/list?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:'2024-04-01T00:00:00.000Z',to:now)))
 ----
 
 ## 0. Understand the POWER of Data
@@ -82,7 +82,7 @@ For Qubic, data serves a strategic purpose:
 The primary goal of **QDashboard** is to provide the community and stakeholders with clear, intuitive visualizations of key data, improving decision-making for **investors** and **marketing teams** while promoting **transparency**.
 
 ### 1.2 Usage
-url: [qdashboard.org](https://qdashboard.org:5601/s/qubic--public-/app/dashboards#/list?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:'2024-04-01T00:00:00.000Z',to:now)))  
+url: [qdashboard.org](http://qdashboard.org:5601/s/qubic--public-/app/dashboards#/list?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:'2024-04-01T00:00:00.000Z',to:now)))  
 To use the Kibana dashboards effectively:
 1. **Timeframe**: The displayed data adapts to the selected timeframe. Filters can also apply specific time restrictions on visualizations.  
     <img width="262" alt="image" src="https://github.com/user-attachments/assets/afe7f0ec-664b-49ee-a9af-f64d2a1bd28a">
@@ -460,4 +460,4 @@ This solution adds another strength to the project and enhances Qubic’s image 
 
 **QDashboard** offers comprehensive visibility and understanding of data, delivering significant value for decision-making, particularly for investors and the marketing team, thus driving the project’s growth. Both management and the community benefit from precise analysis, which serves as a strategic tool for resource optimization and swift adaptation to trends.
 
-[**Build Different.**](https://qdashboard.org:5601/s/qubic--public-/app/dashboards#/list?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:'2024-04-01T00:00:00.000Z',to:now)))
+[**Build Different.**](http://qdashboard.org:5601/s/qubic--public-/app/dashboards#/list?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:'2024-04-01T00:00:00.000Z',to:now)))
