@@ -49,7 +49,7 @@
 #### 8. Conclusion
 
 ----
-# [QDashboard](http://84.247.141.158:5601/s/qubic--public-/app/dashboards#/list?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:'2024-04-01T00:00:00.000Z',to:now)))
+# [QDashboard](https://84.247.141.158:5601/s/qubic--public-/app/dashboards#/list?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:'2024-04-01T00:00:00.000Z',to:now)))
 ----
 
 ## 0. Understand the POWER of Data
@@ -460,4 +460,4 @@ This solution adds another strength to the project and enhances Qubic’s image 
 
 **QDashboard** offers comprehensive visibility and understanding of data, delivering significant value for decision-making, particularly for investors and the marketing team, thus driving the project’s growth. Both management and the community benefit from precise analysis, which serves as a strategic tool for resource optimization and swift adaptation to trends.
 
-[**Build Different.**](http://84.247.141.158:5601/s/qubic--public-/app/dashboards#/list?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:'2024-04-01T00:00:00.000Z',to:now)))
+[**Build Different.**](https://84.247.141.158:5601/s/qubic--public-/app/dashboards#/list?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:'2024-04-01T00:00:00.000Z',to:now)))
