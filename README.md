@@ -125,6 +125,9 @@ It explains :
 > - How to apply and adjust filters to focus on specific data subsets.
 > - How to modify the analysis period, enabling users to examine trends over days, weeks, or months.
 > - Terms and metrics used throughout the dashboards, ensuring accessibility even to those unfamiliar with blockchain or data visualization.
+<details>
+    <img width="1512" alt="Capture d’écran 2024-12-08 à 20 25 44" src="https://github.com/user-attachments/assets/f3f7d8bd-c596-40b5-a577-4ffe2d33d699">
+</details>
 
 #### 1.5.2 [QUBIC] Global Info
 > A high-level overview of Qubic's performance and metrics, offering a comprehensive snapshot of the ecosystem.  
@@ -133,13 +136,20 @@ Key data displayed:
 > - **Events**: Highlights significant milestones, including token launches, partnerships, or market shifts.
 > - **Burned Tokens**: Visualizes the total and recent quantity of burned tokens, reflecting Qubic's commitment to supply reduction.
 > - **Performance Trends**: Combines financial and ecosystem metrics to show overall health and progress.
+<details>
+    <img width="1512" alt="global-info" src="https://github.com/user-attachments/assets/b1486744-ef49-42a7-84ac-b4d598057dac">
+</details>
 
 #### 1.5.3 [QUBIC] Richlist
 > This dashboard provides insights into major investors and their activities, offering transparency and accountability in Qubic’s ecosystem.  
 Key features:
 > - **Major Wallets**: Tracks wallets holding over 1,000 QUs, categorized as significant investors.  
 > - **Wealth Distribution**: Analyzes the concentration of QU among large wallets, helping identify potential risks (e.g., whale influence).  
-> - **Weekly Updates**: The dashboard is updated weekly, ensuring fresh and relevant insights.  
+> - **Weekly Updates**: The dashboard is updated weekly, ensuring fresh and relevant insights.
+<details>
+    <img width="1512" alt="richlist" src="https://github.com/user-attachments/assets/501f670c-cbe6-4ecb-8c14-606e9757eba8">
+</details>
+
 
 #### 1.5.4 [QUBIC] Transactions
 > Focused on blockchain activity, this dashboard tracks real-time and historical Qubic transactions.  
@@ -147,18 +157,27 @@ Key features:
 > - **Advanced Filtering**: Users can filter transactions by specific wallet addresses, transaction amounts, or entity types.
 > - **Real-Time Updates**: Displays live transaction data for instant analysis.
 > - **Fraud Detection**: Advanced users can analyze suspicious patterns, helping maintain ecosystem integrity.
+<details>
+    <img width="1512" alt="txs" src="https://github.com/user-attachments/assets/f7060f04-719c-4e16-a731-3e18924bfdff">
+</details>
 
 #### 1.5.5 [QUBIC] Community
 > Measures the engagement and activity of Qubic’s community across various platforms.  
 Key data sources and metrics:
 > - **Search Metrics**: Analyzes search volume and queries related to Qubic on platforms like Google Trends.
 > - **Discord Activity**: Tracks messages, server growth, and user engagement trends over time.
+<details>
+    <img width="1512" alt="community" src="https://github.com/user-attachments/assets/864c7adc-8a6d-4e9d-9154-c5a1d9ab85df">
+</details>
+
 
 #### 1.5.6 [QUBIC] CFB Airdrop
 > Provides a detailed summary of the CFB token airdrop, conducted in May 2024.  
 Key feature:
 > - **Distribution Metrics**: Shows how many tokens
-
+<details>
+    <img width="1512" alt="cfb" src="https://github.com/user-attachments/assets/81dce9a1-2ebc-4671-96bb-a3dec024c2f2">
+</details>
 
 ### 1.6 Indices (=databases)
 The solution currently integrates 9 databases, powered by various sources for a comprehensive data view:
